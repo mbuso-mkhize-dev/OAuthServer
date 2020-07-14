@@ -1,0 +1,13 @@
+OAuthServer.ApplicationLogic/bin/
+OAuthServer.ApplicationLogic/obj/
+OAuthServer.Auth/obj/
+OAuthServer.DI/bin/
+OAuthServer.DI/obj/
+OAuthServer.EntityFramework.Core/bin/
+OAuthServer.EntityFramework.Core/obj/
+OAuthServer.EntityFramework/bin/
+OAuthServer.EntityFramework/obj/
+OAuthServer.UnitTests/bin/
+OAuthServer.UnitTests/obj/
+OAuthServer/bin/
+OAuthServer/obj/
